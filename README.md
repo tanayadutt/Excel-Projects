@@ -17,4 +17,10 @@ The Coffee Shop Sales Dashboard highlights key trends in sales and product perfo
 ![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/fccf1aec-155b-4d50-bfbe-0db1e62f17f1)
 
 
+## 1. Sales and Profits Analysis
+![Sales Dashboard]
+- Electronics are the top-performing category, contributing the highest share of profit, with laptops and mobile devices driving overall performance.
+- Sales vary significantly by region, with the North and South regions outperforming East and West, highlighting regional growth opportunities.
+- Furniture products deliver stable but moderate profits, helping maintain revenue consistency across categories.
+- The pivot-based dashboard enables quick insights, allowing stakeholders to filter by product, region, and year to easily identify trends, compare performance, and support data-driven decisions.
 
